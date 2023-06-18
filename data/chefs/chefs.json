@@ -1,0 +1,295 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "image_url": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "years_of_experience": 10,
+    "total_recipes": 15,
+    "recipes": [
+      {
+        "id": "pZ5e8uWkLc",
+        "name": "Pasta Carbonara",
+        "recipe_img": "https://images.unsplash.com/photo-1612874742237-6526221588e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80",
+        "ingredients": ["spaghetti", "pancetta", "eggs", "Parmesan cheese"],
+        "cooking_method": "To make Pasta Carbonara, first cook your pasta in a pot of boiling salted water until al dente. While the pasta is cooking, sauté pancetta or bacon in a large pan until crispy. Remove the pancetta with a slotted spoon and set aside. In the same pan, sauté garlic until fragrant, then turn off the heat. In a separate bowl, whisk together egg yolks, grated Pecorino Romano cheese, and black pepper. Drain the cooked pasta, reserving a cup of the pasta water. Add the hot pasta to the pan with the garlic and toss to coat. Gradually add the egg mixture to the pan, stirring constantly to prevent the eggs from scrambling. If the sauce is too thick, add some of the reserved pasta water to thin it out. Finally, add the crispy pancetta to the pan and toss everything together. Serve immediately with additional grated cheese and black pepper on top.",
+        "spice": 2,
+        "rating": 4.5
+      },
+      {
+        "id": "nD7fXtMqRv",
+        "name": "Steak with Chimichurri Sauce",
+        "recipe_img": "https://images.unsplash.com/photo-1619719015339-133a130520f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "ingredients": [
+          "sirloin steak",
+          "garlic",
+          "parsley",
+          "red wine vinegar",
+          "olive oil"
+        ],
+        "cooking_method": "To make steak with chimichurri sauce, first prepare the sauce by finely chopping fresh parsley, oregano, garlic, and red pepper flakes. Combine the chopped herbs and spices with olive oil, red wine vinegar, salt, and black pepper in a bowl. Stir to combine and set aside. Next, season your steak with salt and black pepper. Heat a cast-iron skillet over high heat until very hot. Add a drizzle of oil to the skillet and sear the steak for a few minutes on each side until it is browned and cooked to your desired level of doneness. Remove the steak from the skillet and let it rest for a few minutes. Slice the steak against the grain into thin slices. To serve, spoon the chimichurri sauce over the sliced steak or serve it on the side for dipping. Garnish with additional fresh herbs, if desired. Enjoy your delicious steak with chimichurri sauce!",
+        "spice": 4,
+        "rating": 4.2
+      },
+      {
+        "id": "hA9kG3bYjF",
+        "name": "Fish Tacos",
+        "recipe_img": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "ingredients": ["tilapia", "lime", "cumin", "cilantro", "tortillas"],
+        "cooking_method": "Fish tacos are a delicious and popular dish that can be easily made at home. Start by marinating the fish of your choice in lime juice, garlic, and spices for at least 30 minutes. Heat a non-stick skillet over medium-high heat and cook the fish until it's browned and cooked through. Warm up corn tortillas in a separate skillet or on a griddle. Assemble the tacos by layering the fish on the tortillas and topping with shredded cabbage, diced tomatoes, sliced avocado, and a drizzle of sour cream or hot sauce. Serve with lime wedges and enjoy!",
+        "spice": 5,
+        "rating": 4.8
+      },
+      {
+        "id": "tR4mS2zCnV",
+        "name": "Chocolate Chip Cookies",
+        "recipe_img": "https://images.unsplash.com/photo-1583743089695-4b816a340f82?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "ingredients": [
+          "butter",
+          "brown sugar",
+          "white sugar",
+          "eggs",
+          "flour",
+          "chocolate chips"
+        ],
+        "cooking_method": "Chocolate chip cookies are a classic and popular baked good. To make them, start by preheating the oven to 375°F (190°C). Cream together softened butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla extract. In a separate bowl, combine flour, baking soda, and salt. Gradually mix the dry ingredients into the butter mixture until just combined. Stir in chocolate chips. Drop spoonfuls of dough onto a greased baking sheet, and bake for 8-10 minutes, or until lightly golden brown. Let the cookies cool for a few minutes on the baking sheet before transferring them to a wire rack to cool completely. Enjoy your delicious homemade chocolate chip cookies!",
+        "spice": 1,
+        "rating": 4.6
+      }
+    ],
+    "likes": 5000,
+    "short_bio": "John Doe is a talented chef with 10 years of experience in the culinary industry. He is passionate about creating delicious and innovative dishes that people of all ages can enjoy."
+  },
+  {
+    "id": 2,
+    "name": "Jason Smith",
+    "image_url": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=677&q=80",
+    "years_of_experience": 12,
+    "total_recipes": 25,
+    "recipes": [
+      {
+        "id": "lQ8yU7xNpJ",
+        "name": "Grilled Salmon",
+        "recipe_img": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "ingredients": ["salmon", "lemon", "olive oil", "salt"],
+        "cooking_method": "Grilled salmon is a delicious and healthy dish that can be prepared quickly and easily. Season the salmon fillets with salt and pepper, then brush them with a mixture of olive oil, lemon juice, minced garlic, and chopped parsley. Preheat the grill to medium-high heat and place the salmon fillets on the grill. Grill for about 4-5 minutes on each side until the salmon is cooked through and has grill marks. Serve with lemon wedges and your favorite sides for a healthy and flavorful meal. Grilled salmon is a great option for those looking for a nutritious and satisfying dish.",
+        "spice": 4,
+        "rating": 4.7
+      },
+      {
+        "id": "bE6wZ1iKgT",
+        "name": "Caprese Salad",
+        "recipe_img": "https://images.unsplash.com/photo-1595587870672-c79b47875c6a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1046&q=80",
+        "ingredients": ["tomato", "mozzarella", "basil", "balsamic vinegar"],
+        "cooking_method": "Caprese salad is a classic Italian dish made with fresh mozzarella, ripe tomatoes, and fresh basil leaves. To prepare, slice the mozzarella and tomatoes into equal thickness, and arrange them on a plate in alternating layers. Season with salt and pepper, and drizzle with olive oil and balsamic vinegar. Garnish with fresh basil leaves and serve immediately. Caprese salad is a simple yet delicious appetizer or side dish that showcases the flavors of fresh, seasonal ingredients. It's perfect for summer and pairs well with grilled meats, bread, or a glass of chilled white wine.",
+        "spice": 1,
+        "rating": 4.5
+      },
+      {
+        "id": "cD9xS4tGyN",
+        "name": "Chicken Alfredo",
+        "recipe_img": "https://images.unsplash.com/photo-1645112411341-6c4fd023714a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "ingredients": ["chicken", "fettuccine", "cream", "parmesan cheese"],
+        "cooking_method": "To make Chicken Alfredo, start by cooking diced chicken in a skillet until it's no longer pink. Remove the chicken and set it aside. In the same skillet, melt butter and sauté minced garlic until fragrant. Pour in heavy cream and bring it to a simmer. Stir in grated Parmesan cheese until it melts and forms a creamy sauce. Season with salt, pepper, and any desired herbs. Add the cooked chicken back to the skillet and let it heat through. Serve the Chicken Alfredo sauce over cooked fettuccine noodles, garnishing with fresh parsley or additional Parmesan cheese. It's a comforting and satisfying pasta dish enjoyed by many.",
+        "spice": 1,
+        "rating": 4.8
+      }
+    ],
+    "likes": 8000,
+    "short_bio": "Jason Smith is a renowned chef with 12 years of experience. He specializes in seafood and US cuisine."
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "image_url": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "years_of_experience": 8,
+    "total_recipes": 13,
+    "recipes": [
+      {
+        "id": "kF3zL7vRnW",
+        "name": "Beef Stir-Fry",
+        "recipe_img": "https://images.unsplash.com/photo-1676300185292-e23bb3db50fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "ingredients": ["beef", "bell peppers", "soy sauce", "ginger"],
+        "cooking_method": "To make beef stir-fry, start by slicing a flank steak or sirloin into thin strips. Marinate the beef in a mixture of soy sauce, cornstarch, and rice wine for at least 15 minutes. Heat a wok or large skillet over high heat and add oil. Stir-fry sliced vegetables, such as onions, peppers, broccoli, and carrots, until they're crisp-tender. Add the marinated beef and stir-fry until it's browned and cooked through. Season with additional soy sauce, salt, and pepper to taste. Serve over steamed rice or noodles. Beef stir-fry is a quick and easy weeknight dinner that's both flavorful and nutritious.",
+        "spice": 4.5,
+        "rating": 4.4
+      },
+      {
+        "id": "gH2bJ4uQeK",
+        "name": "Caesar Salad",
+        "recipe_img": "https://images.unsplash.com/photo-1551248429-40975aa4de74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=990&q=80",
+        "ingredients": [
+          "romaine lettuce",
+          "croutons",
+          "parmesan cheese",
+          "Caesar dressing"
+        ],
+        "cooking_method": "Caesar salad is a classic salad made with romaine lettuce, croutons, Parmesan cheese, and a creamy dressing made with anchovies, garlic, lemon juice, Dijon mustard, mayonnaise, and olive oil. To make the dressing, whisk together the anchovies, garlic, lemon juice, and Dijon mustard in a bowl. Gradually whisk in the olive oil and mayonnaise until the dressing is smooth and creamy. Toss the romaine lettuce with the dressing until it's well-coated. Top with Parmesan cheese and croutons. Serve immediately. Caesar salad is a delicious and satisfying salad that's perfect for a light lunch or a side dish to any meal.",
+        "spice": 3,
+        "rating": 4.6
+      },
+      {
+        "id": "rT6mC1sPnE",
+        "name": "Molten Lava Cake",
+        "recipe_img": "https://images.unsplash.com/photo-1530648672449-81f6c723e2f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1089&q=80",
+        "ingredients": ["chocolate", "butter", "sugar", "eggs"],
+        "cooking_method": "Molten lava cake is a decadent dessert that's perfect for chocolate lovers. To make, melt chocolate and butter in a bowl over a pot of simmering water. In a separate bowl, whisk together eggs, egg yolks, sugar, and vanilla extract. Gradually stir in the melted chocolate mixture and flour until the batter is smooth. Divide the batter into greased ramekins and bake in a preheated oven for about 10-12 minutes until the edges are set but the center is still gooey. Serve the warm cakes with a dusting of powdered sugar, whipped cream, and fresh berries. Molten lava cake is a rich and indulgent dessert that's sure to impress.",
+        "spice": 1,
+        "rating": 4.9
+      }
+    ],
+    "likes": 6000,
+    "short_bio": "Bob Johnson is an experienced chef known for his expertise in Canadian and American cuisines."
+  },
+  {
+    "id": 4,
+    "name": "Maria Gonzalez",
+    "image_url": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "years_of_experience": 15,
+    "total_recipes": 8,
+    "recipes": [
+      {
+        "id": "uY8fN3pZcL",
+        "name": "Taco Salad",
+        "recipe_img": "https://plus.unsplash.com/premium_photo-1661776866702-d671127c2d8b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "ingredients": ["ground beef", "lettuce", "tomatoes", "taco seasoning"],
+        "cooking_method": "Taco salad is a delicious and healthy salad made with seasoned ground beef, lettuce, tomatoes, cheese, and tortilla chips. To make, cook ground beef in a skillet until it's browned and cooked through. Add taco seasoning and water to the beef and let it simmer until the liquid has evaporated. In a bowl, toss lettuce with diced tomatoes and shredded cheese. Top the salad with the seasoned beef and crushed tortilla chips. Drizzle with salsa, sour cream, and guacamole, if desired. Taco salad is a filling and flavorful salad that's perfect for a quick and easy weeknight dinner.",
+        "spice": 3.5,
+        "rating": 4.5
+      },
+      {
+        "id": "jK7vX9aBqM",
+        "name": "Paella",
+        "recipe_img": "https://images.unsplash.com/photo-1588276552401-30058a0fe57b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1423&q=80",
+        "ingredients": ["rice", "chicken", "shrimp", "chorizo", "saffron"],
+        "cooking_method": "Paella is a traditional Spanish dish that's made with saffron-infused rice, vegetables, and meat or seafood. To make, heat olive oil in a large paella pan over medium heat. Sauté diced onions and garlic until they're soft and fragrant. Add diced bell peppers and sliced chorizo sausage and cook until they're browned. Stir in the rice, saffron, and chicken broth and bring the mixture to a boil. Arrange shrimp, mussels, and other seafood over the rice and let it cook until the rice is tender and the seafood is cooked through. Garnish with chopped parsley and lemon wedges before serving. Paella is a flavorful and satisfying one-pot meal that's perfect for entertaining.",
+        "spice": 3,
+        "rating": 4.8
+      },
+      {
+        "id": "wL5uZ2hFtQ",
+        "name": "Churros",
+        "recipe_img": "https://images.unsplash.com/photo-1615915848347-5ad361d3e9fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80",
+        "ingredients": ["flour", "butter", "sugar", "cinnamon"],
+        "cooking_method": "Churros are a popular Spanish dessert that are made with a simple dough of flour, water, and salt, which is then piped through a star-shaped nozzle and fried until crispy. To make, bring water, butter, and sugar to a boil in a saucepan. Add flour and salt and stir until a dough forms. Transfer the dough to a pastry bag fitted with a star tip and pipe strips into hot oil until they're golden brown. Drain on paper towels and toss with a mixture of cinnamon and sugar. Serve warm with chocolate sauce or dulce de leche. Churros are a crunchy and sweet treat that's perfect for any occasion.",
+        "spice": 3.5,
+        "rating": 4.7
+      },
+      {
+        "id": "qE6yG1sVpJ",
+        "name": "Guacamole",
+        "recipe_img": "https://images.unsplash.com/photo-1595016111459-799a195e7452?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "ingredients": ["avocado", "tomatoes", "onion", "lime juice"],
+        "cooking_method": "Guacamole is a popular Mexican dip made with ripe avocados, tomatoes, onions, jalapeños, lime juice, and salt. To make, mash ripe avocados in a bowl with a fork until they're slightly chunky. Add diced tomatoes, onions, and jalapeños to the bowl and mix until combined. Squeeze fresh lime juice over the mixture and season with salt to taste. Garnish with chopped cilantro and serve with tortilla chips or as a topping for tacos or burritos. Guacamole is a creamy and flavorful dip that's perfect for parties or as a snack any time of day.",
+        "spice": 1,
+        "rating": 4.6
+      }
+    ],
+    "likes": 10000,
+    "short_bio": "Maria Gonzalez is a top-rated chef with over 15 years of experience in Mexican and American cuisine. She is best known for her delicious and authentic paella."
+  },
+  {
+    "id": 5,
+    "name": "John Lee",
+    "image_url": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "years_of_experience": 10,
+    "total_recipes": 35,
+    "recipes": [
+      {
+        "id": "xN7tM9bCfA",
+        "name": "Spicy Fried Chicken",
+        "recipe_img": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "ingredients": [
+          "chicken wings",
+          "flour",
+          "cornstarch",
+          "gochujang",
+          "soy sauce"
+        ],
+        "cooking_method": "Spicy fried chicken is a delicious and satisfying dish that's perfect for any occasion. To make, marinate chicken pieces in a mixture of buttermilk, hot sauce, and spices for at least 30 minutes. In a separate bowl, whisk together flour, cornstarch, and more spices to make the coating. Dip the chicken pieces in the flour mixture and coat them evenly. Heat oil in a deep fryer or large skillet over medium-high heat. Fry the chicken until it's golden brown and crispy, and the internal temperature has reached 165°F. Serve hot with a side of coleslaw or potato salad. Spicy fried chicken is a classic Southern dish that's sure to please.",
+        "spice": 5,
+        "rating": 4.9
+      },
+      {
+        "id": "iP2hR4gKjW",
+        "name": "Kimchi Fried Rice",
+        "recipe_img": "https://images.unsplash.com/photo-1580442151529-343f2f6e0e27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "ingredients": ["rice", "kimchi", "bacon", "scallions", "egg"],
+        "cooking_method": "Kimchi fried rice is a Korean dish that's made with day-old rice, kimchi, vegetables, and protein. To make, heat oil in a wok or large skillet over high heat. Add diced onions and garlic and cook until they're fragrant. Stir in diced carrots, peas, and chopped kimchi and cook until the vegetables are tender. Add cooked rice to the wok and stir until it's well-coated with the kimchi mixture. Make a well in the center of the wok and crack an egg into it. Let the egg cook until the whites are set but the yolk is still runny. Serve hot with chopped scallions and sesame seeds. Kimchi fried rice is a flavorful and spicy dish that's perfect for a quick and easy meal.",
+        "spice": 4,
+        "rating": 4.7
+      },
+      {
+        "id": "sT3fJ9lQcE",
+        "name": "Bibimbap",
+        "recipe_img": "https://images.unsplash.com/photo-1600289031464-74d374b64991?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1075&q=80",
+        "ingredients": ["rice", "beef", "vegetables", "gochujang sauce"],
+        "cooking_method": "Bibimbap is a Korean rice bowl dish that's filled with a variety of colorful vegetables, meat, and a fried egg, served over a bed of rice. To make, cook rice and prepare the vegetables by sautéing them separately with sesame oil and garlic until tender. Cook the meat (usually beef) in a separate pan and season it with soy sauce and sugar. Fry an egg and assemble the bibimbap by placing the rice at the bottom of the bowl, arranging the vegetables and meat on top, and topping with the fried egg. Serve with gochujang sauce for extra flavor. Bibimbap is a nutritious and filling meal that's easy to customize with your favorite ingredients.",
+        "spice": 3,
+        "rating": 4.8
+      },
+      {
+        "id": "zD6nV8bWmY",
+        "name": "Tteokbokki",
+        "recipe_img": "https://images.unsplash.com/photo-1679581083578-94eae6e8d7a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+        "ingredients": ["rice cakes", "fish cakes", "gochujang", "soy sauce"],
+        "cooking_method": "Tteokbokki is a popular Korean street food made with chewy rice cakes and a spicy sauce. To make, boil rice cakes in water until they're soft and chewy. In a separate pan, sauté diced onions and garlic until fragrant. Add gochujang (Korean chili paste), sugar, soy sauce, and water to the pan and stir until the sauce is well-combined. Add the boiled rice cakes to the pan and stir until they're coated with the sauce. Cook until the sauce has thickened and the rice cakes are slightly caramelized. Garnish with sliced scallions and sesame seeds. Tteokbokki is a spicy and satisfying dish that's perfect for a quick snack or light meal.",
+        "spice": 1,
+        "rating": 4.6
+      }
+    ],
+    "likes": 12000,
+    "short_bio": "John Lee is a Korean-American chef who specializes in California cuisine. He has worked in several Michelin-starred restaurants and has gained a reputation for his delicious spicy fried chicken."
+  },
+  {
+    "id": 6,
+    "name": "Michael Chen",
+    "image_url": "https://images.unsplash.com/photo-1635431543236-d8813fad2bed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=780&q=80",
+    "years_of_experience": 20,
+    "total_recipes": 55,
+    "recipes": [
+      {
+        "id": "vG1qA5yLpS",
+        "name": "Beef Wellington",
+        "recipe_img": "https://images.unsplash.com/photo-1546964053-d018e345e490?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "ingredients": [
+          "beef fillet",
+          "puff pastry",
+          "mushrooms",
+          "prosciutto"
+        ],
+        "cooking_method": "Beef Wellington is a classic British dish that consists of a tender beef filet coated in mushroom duxelles, wrapped in puff pastry, and baked until golden brown. To make, sear the beef filet on all sides until browned, then wrap it in mushroom duxelles (a mixture of finely chopped mushrooms, onions, garlic, and herbs cooked until tender). Wrap the coated beef tightly in puff pastry and brush with egg wash before baking in the oven until the pastry is crispy and golden brown. Let the beef rest before slicing and serving with a side of mashed potatoes or roasted vegetables. Beef Wellington is an elegant and decadent dish that's perfect for a special occasion or dinner party.",
+        "spice": 3,
+        "rating": 4.9
+      },
+      {
+        "id": "mF4cS7tJkX",
+        "name": "Lemon Herb Roasted Chicken",
+        "recipe_img": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "ingredients": ["chicken", "lemon", "garlic", "rosemary"],
+        "cooking_method": "Lemon herb roasted chicken is a delicious and easy-to-make dish that's perfect for any night of the week. To make, preheat the oven to 400°F and prepare a roasting pan with cooking spray. In a small bowl, whisk together olive oil, lemon juice, garlic, herbs, salt, and pepper. Rub the mixture all over the chicken, making sure to get it under the skin. Place the chicken in the roasting pan and roast for about 1 hour or until the internal temperature reaches 165°F. Let the chicken rest for 10 minutes before carving and serving with your favorite sides. Lemon herb roasted chicken is a flavorful and comforting dish that's sure to be a crowd-pleaser.",
+        "spice": 4,
+        "rating": 4.7
+      },
+      {
+        "id": "yN8bR2dHlM",
+        "name": "Creme Brulee",
+        "recipe_img": "https://images.unsplash.com/photo-1615234435691-3b7bae98085e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "ingredients": ["cream", "sugar", "vanilla", "egg yolks"],
+        "cooking_method": "Crème brûlée is a classic French dessert that's made with a rich custard base and a crunchy caramelized sugar topping. To make, preheat the oven to 325°F and prepare a baking dish with hot water for a water bath. In a saucepan, heat heavy cream and vanilla until it simmers. In a separate bowl, whisk together egg yolks and sugar until thick and creamy. Slowly pour the cream mixture into the egg mixture while whisking continuously. Pour the mixture into ramekins and bake in the water bath for 30-40 minutes or until the custard is set. Chill in the fridge until cool, then sprinkle sugar on top and caramelize with a kitchen torch. Crème brûlée is a decadent and indulgent dessert that's perfect for special occasions.",
+        "spice": 1,
+        "rating": 4.8
+      },
+      {
+        "id": "aK9jP6uQxZ",
+        "name": "Ratatouille",
+        "recipe_img": "https://images.unsplash.com/photo-1652622550740-f90d03edfbf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+        "ingredients": ["eggplant", "zucchini", "bell peppers", "tomatoes"],
+        "cooking_method": "Ratatouille is a classic French vegetable stew that's made with eggplant, zucchini, bell peppers, onions, and tomatoes. To make, sauté diced onions and garlic until fragrant. Add diced eggplant, zucchini, and bell peppers and cook until tender. Add canned tomatoes, thyme, and rosemary and simmer until the vegetables are soft and the flavors have melded together. Season with salt and pepper to taste. Ratatouille can be served hot or cold and is a delicious and healthy side dish that pairs well with grilled meats or fish. It's also a great vegetarian option that's loaded with flavor and nutrients.",
+        "spice": 2,
+        "rating": 4.6
+      }
+    ],
+    "likes": 12000,
+    "short_bio": "Michael Chen is a renowned chef with over 20 years of experience. His culinary expertise lies in Hawaiian cuisine, and he is especially known for his exquisite Beef Wellington."
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "id": "pZ5e8uWkLc",
+    "chef": "John Doe",
+    "chef_img_url": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "name": "Pasta Carbonara",
+    "recipe_img": "https://images.unsplash.com/photo-1612874742237-6526221588e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80",
+    "ingredients": ["spaghetti", "pancetta", "eggs", "Parmesan cheese"],
+    "rating": 4.5
+  },
+  {
+    "id": "nD7fXtMqRv",
+    "chef": "John Doe",
+    "chef_img_url": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "name": "Steak with Chimichurri Sauce",
+    "recipe_img": "https://images.unsplash.com/photo-1619719015339-133a130520f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "ingredients": [
+      "sirloin steak",
+      "garlic",
+      "parsley",
+      "red wine vinegar",
+      "olive oil"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "hA9kG3bYjF",
+    "chef": "John Doe",
+    "chef_img_url": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "name": "Fish Tacos",
+    "recipe_img": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "ingredients": ["tilapia", "lime", "cumin", "cilantro", "tortillas"],
+    "rating": 4.8
+  },
+  {
+    "id": "tR4mS2zCnV",
+    "chef": "John Doe",
+    "chef_img_url": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "name": "Chocolate Chip Cookies",
+    "recipe_img": "https://images.unsplash.com/photo-1583743089695-4b816a340f82?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "ingredients": [
+      "butter",
+      "brown sugar",
+      "white sugar",
+      "eggs",
+      "flour",
+      "chocolate chips"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "lQ8yU7xNpJ",
+    "chef": "Alice Smith",
+    "chef_img_url": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=677&q=80",
+    "name": "Grilled Salmon",
+    "recipe_img": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "ingredients": ["salmon", "lemon", "olive oil", "salt"],
+    "rating": 4.7
+  },
+  {
+    "id": "bE6wZ1iKgT",
+    "chef": "Alice Smith",
+    "chef_img_url": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=677&q=80",
+    "name": "Caprese Salad",
+    "recipe_img": "https://images.unsplash.com/photo-1595587870672-c79b47875c6a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1046&q=80",
+    "ingredients": ["tomato", "mozzarella", "basil", "balsamic vinegar"],
+    "rating": 4.5
+  },
+  {
+    "id": "cD9xS4tGyN",
+    "chef": "Alice Smith",
+    "chef_img_url": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=677&q=80",
+    "name": "Chicken Alfredo",
+    "recipe_img": "https://images.unsplash.com/photo-1645112411341-6c4fd023714a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "ingredients": ["chicken", "fettuccine", "cream", "parmesan cheese"],
+    "rating": 4.8
+  },
+  {
+    "id": "kF3zL7vRnW",
+    "chef": "Bob Johnson",
+    "chef_img_url": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "name": "Beef Stir-Fry",
+    "recipe_img": "https://images.unsplash.com/photo-1676300185292-e23bb3db50fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "ingredients": ["beef", "bell peppers", "soy sauce", "ginger"],
+    "rating": 4.4
+  },
+  {
+    "id": "gH2bJ4uQeK",
+    "chef": "Bob Johnson",
+    "chef_img_url": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "name": "Caesar Salad",
+    "recipe_img": "https://images.unsplash.com/photo-1551248429-40975aa4de74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=990&q=80",
+    "ingredients": [
+      "romaine lettuce",
+      "croutons",
+      "parmesan cheese",
+      "Caesar dressing"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "rT6mC1sPnE",
+    "chef": "Bob Johnson",
+    "chef_img_url": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "name": "Molten Lava Cake",
+    "recipe_img": "https://images.unsplash.com/photo-1530648672449-81f6c723e2f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1089&q=80",
+    "ingredients": ["chocolate", "butter", "sugar", "eggs"],
+    "rating": 4.9
+  },
+  {
+    "id": "uY8fN3pZcL",
+    "chef": "Maria Gonzalez",
+    "chef_img_url": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "name": "Taco Salad",
+    "recipe_img": "https://plus.unsplash.com/premium_photo-1661776866702-d671127c2d8b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "ingredients": ["ground beef", "lettuce", "tomatoes", "taco seasoning"],
+    "rating": 4.5
+  },
+  {
+    "id": "jK7vX9aBqM",
+    "chef": "Maria Gonzalez",
+    "chef_img_url": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "name": "Paella",
+    "recipe_img": "https://images.unsplash.com/photo-1588276552401-30058a0fe57b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1423&q=80",
+    "ingredients": ["rice", "chicken", "shrimp", "chorizo", "saffron"],
+    "rating": 4.8
+  },
+  {
+    "id": "wL5uZ2hFtQ",
+    "chef": "Maria Gonzalez",
+    "chef_img_url": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "name": "Churros",
+    "recipe_img": "https://images.unsplash.com/photo-1615915848347-5ad361d3e9fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80",
+    "ingredients": ["flour", "butter", "sugar", "cinnamon"],
+    "rating": 4.7
+  },
+  {
+    "id": "qE6yG1sVpJ",
+    "chef": "Maria Gonzalez",
+    "chef_img_url": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "name": "Guacamole",
+    "recipe_img": "https://images.unsplash.com/photo-1595016111459-799a195e7452?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "ingredients": ["avocado", "tomatoes", "onion", "lime juice"],
+    "rating": 4.6
+  },
+  {
+    "id": "xN7tM9bCfA",
+    "chef": "John Lee",
+    "chef_img_url": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "name": "Spicy Korean Fried Chicken",
+    "recipe_img": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "ingredients": [
+      "chicken wings",
+      "flour",
+      "cornstarch",
+      "gochujang",
+      "soy sauce"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "iP2hR4gKjW",
+    "chef": "John Lee",
+    "chef_img_url": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "name": "Kimchi Fried Rice",
+    "recipe_img": "https://images.unsplash.com/photo-1580442151529-343f2f6e0e27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "ingredients": ["rice", "kimchi", "bacon", "scallions", "egg"],
+    "rating": 4.7
+  },
+  {
+    "id": "sT3fJ9lQcE",
+    "chef": "John Lee",
+    "chef_img_url": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "name": "Bibimbap",
+    "recipe_img": "https://images.unsplash.com/photo-1600289031464-74d374b64991?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1075&q=80",
+    "ingredients": ["rice", "beef", "vegetables", "gochujang sauce"],
+    "rating": 4.8
+  },
+  {
+    "id": "zD6nV8bWmY",
+    "chef": "John Lee",
+    "chef_img_url": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "name": "Tteokbokki",
+    "recipe_img": "https://images.unsplash.com/photo-1679581083578-94eae6e8d7a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+    "ingredients": ["rice cakes", "fish cakes", "gochujang", "soy sauce"],
+    "rating": 4.6
+  },
+  {
+    "id": "vG1qA5yLpS",
+    "chef": "Michael Chen",
+    "chef_img_url": "https://images.unsplash.com/photo-1635431543236-d8813fad2bed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=780&q=80",
+    "name": "Beef Wellington",
+    "recipe_img": "https://images.unsplash.com/photo-1546964053-d018e345e490?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "ingredients": ["beef fillet", "puff pastry", "mushrooms", "prosciutto"],
+    "rating": 4.9
+  },
+  {
+    "id": "mF4cS7tJkX",
+    "chef": "Michael Chen",
+    "chef_img_url": "https://images.unsplash.com/photo-1635431543236-d8813fad2bed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=780&q=80",
+    "name": "Lemon Herb Roasted Chicken",
+    "recipe_img": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "ingredients": ["chicken", "lemon", "garlic", "rosemary"],
+    "rating": 4.7
+  },
+  {
+    "id": "yN8bR2dHlM",
+    "chef": "Michael Chen",
+    "chef_img_url": "https://images.unsplash.com/photo-1635431543236-d8813fad2bed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=780&q=80",
+    "name": "Creme Brulee",
+    "recipe_img": "https://images.unsplash.com/photo-1615234435691-3b7bae98085e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "ingredients": ["cream", "sugar", "vanilla", "egg yolks"],
+    "rating": 4.8
+  },
+  {
+    "id": "aK9jP6uQxZ",
+    "chef": "Michael Chen",
+    "chef_img_url": "https://images.unsplash.com/photo-1635431543236-d8813fad2bed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=780&q=80",
+    "name": "Ratatouille",
+    "recipe_img": "https://images.unsplash.com/photo-1652622550740-f90d03edfbf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+    "ingredients": ["eggplant", "zucchini", "bell peppers", "tomatoes"],
+    "rating": 4.6
+  }
+]
